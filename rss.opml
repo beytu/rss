@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>jeu. août 5 11:28:52 2021</dateModified>
+    </head>
+    <body>
+        <outline text="QuiteRSS" type="rss" htmlUrl="http://quiterss.org/en/frontpage" xmlUrl="https://quiterss.org/en/rss.xml"/>
+        <outline text="QuiteRSS" type="rss" htmlUrl="http://quiterss.org/en/frontpage" xmlUrl="http://quiterss.org/en/rss.xml"/>
+        <outline text="Dealabs" type="rss" htmlUrl="https://www.dealabs.com" xmlUrl="https://www.dealabs.com/rss"/>
+        <outline text="Tech">
+            <outline text="CowcotLand" type="rss" htmlUrl="https://www.cowcotland.com" xmlUrl="http://feeds.feedburner.com/cowcotland"/>
+            <outline text="Réseau JudgeHype" type="rss" htmlUrl="https://www.judgehype.com" xmlUrl="https://www.judgehype.com/nouvelles.xml"/>
+            <outline text="Android" type="rss" htmlUrl="https://www.reddit.com/r/Android" xmlUrl="https://www.reddit.com/r/Android.rss"/>
+        </outline>
+        <outline text="News">
+            <outline text="Tech">
+                <outline text="Small Form Factor PC" type="rss" htmlUrl="https://www.reddit.com/r/sffpc" xmlUrl="https://www.reddit.com/r/sffpc.rss"/>
+                <outline text="A place for AMD users, fans, and enthusiasts to discuss past, current, and future AMD products" type="rss" htmlUrl="https://www.reddit.com/r/amd" xmlUrl="https://www.reddit.com/r/amd.rss"/>
+                <outline text="The NVIDIA Subreddit" type="rss" htmlUrl="https://www.reddit.com/r/nvidia" xmlUrl="https://www.reddit.com/r/nvidia.rss"/>
+                <outline text="/r/hardware: a technology subreddit for computer hardware news, reviews and discussion." type="rss" htmlUrl="https://www.reddit.com/r/hardware" xmlUrl="https://www.reddit.com/r/hardware.rss"/>
+            </outline>
+            <outline text="EN">
+                <outline text="Science">
+                    <outline text="Science" type="rss" htmlUrl="https://www.reddit.com/r/science" xmlUrl="https://www.reddit.com/r/science.rss"/>
+                    <outline text="/r/space: news, articles, images, videos, and discussion" type="rss" htmlUrl="https://www.reddit.com/r/space" xmlUrl="https://www.reddit.com/r/space.rss"/>
+                </outline>
+                <outline text="News">
+                    <outline text="World News" type="rss" htmlUrl="https://www.reddit.com/r/worldnews" xmlUrl="https://www.reddit.com/r/worldnews.rss"/>
+                </outline>
+                <outline text="Tech">
+                    <outline text="AnandTech" type="rss" htmlUrl="http://www.anandtech.com" xmlUrl="https://www.anandtech.com/rss/"/>
+                </outline>
+            </outline>
+            <outline text="FR">
+                <outline text="News">
+                    <outline text="Local">
+                        <outline text="France 3 Auvergne-Rhône-Alpes - Isère" type="rss" htmlUrl="https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere" xmlUrl="https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/rss"/>
+                        <outline text="Grenoble" type="rss" htmlUrl="https://www.reddit.com/r/Grenoble" xmlUrl="https://www.reddit.com/r/Grenoble.rss"/>
+                        <outline text="Grenoble | Edition Grenoble / Vercors | Le Dauphiné Libéré" type="rss" htmlUrl="https://www.ledauphine.com/edition-grenoble-vercors/grenoble" xmlUrl="https://www.ledauphine.com/edition-grenoble-vercors/grenoble/rss"/>
+                    </outline>
+                    <outline text="Ouest-France - Actualité" type="rss" htmlUrl="https://www.ouest-france.fr" xmlUrl="https://www.ouest-france.fr/rss-en-continu.xml"/>
+                </outline>
+                <outline text="France" type="rss" htmlUrl="https://www.reddit.com/r/france" xmlUrl="https://www.reddit.com/r/france.rss"/>
+            </outline>
+        </outline>
+        <outline text="Programming">
+            <outline text="programming" type="rss" htmlUrl="https://www.reddit.com/r/programming" xmlUrl="https://www.reddit.com/r/programming.rss"/>
+            <outline text="Java News/Tech/Discussion/etc. No programming help, no learning Java" type="rss" htmlUrl="https://www.reddit.com/r/java" xmlUrl="https://www.reddit.com/r/java.rss"/>
+            <outline text="Scala" type="rss" htmlUrl="https://www.reddit.com/r/scala" xmlUrl="https://www.reddit.com/r/scala.rss"/>
+            <outline text="Kotlin" type="rss" htmlUrl="https://www.reddit.com/r/kotlin" xmlUrl="https://www.reddit.com/r/kotlin.rss"/>
+            <outline text="netbeans" type="rss" htmlUrl="https://www.reddit.com/r/netbeans" xmlUrl="http://reddit.com/r/netbeans.rss"/>
+            <outline text="Flutter" type="rss" htmlUrl="https://www.reddit.com/r/Flutter" xmlUrl="https://www.reddit.com/r/Flutter.rss"/>
+            <outline text="FlutterDev" type="rss" htmlUrl="https://www.reddit.com/r/FlutterDev" xmlUrl="https://www.reddit.com/r/FlutterDev.rss"/>
+        </outline>
+        <outline text="Cars">
+            <outline text="r/Cars - For Car Enthusiasts" type="rss" htmlUrl="https://www.reddit.com/r/cars" xmlUrl="https://www.reddit.com/r/cars.rss"/>
+            <outline text="Alfa Romeo" type="rss" htmlUrl="https://www.reddit.com/r/AlfaRomeo" xmlUrl="https://www.reddit.com/r/AlfaRomeo.rss"/>
+            <outline text="Italpassion" type="rss" htmlUrl="https://www.italpassion.fr" xmlUrl="https://www.italpassion.fr/feed"/>
+            <outline text="Caradisiac.com : toute l'actu auto en continu" type="rss" htmlUrl="http://www.caradisiac.com" xmlUrl="https://www.caradisiac.com/rss.xml"/>
+        </outline>
+    </body>
+</opml>
