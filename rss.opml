@@ -5,8 +5,6 @@
         <dateModified>jeu. août 5 11:28:52 2021</dateModified>
     </head>
     <body>
-        <outline text="QuiteRSS" type="rss" htmlUrl="http://quiterss.org/en/frontpage" xmlUrl="https://quiterss.org/en/rss.xml"/>
-        <outline text="QuiteRSS" type="rss" htmlUrl="http://quiterss.org/en/frontpage" xmlUrl="http://quiterss.org/en/rss.xml"/>
         <outline text="Dealabs" type="rss" htmlUrl="https://www.dealabs.com" xmlUrl="https://www.dealabs.com/rss"/>
         <outline text="Tech">
             <outline text="CowcotLand" type="rss" htmlUrl="https://www.cowcotland.com" xmlUrl="http://feeds.feedburner.com/cowcotland"/>
