@@ -47,7 +47,7 @@
             <outline text="Java News/Tech/Discussion/etc. No programming help, no learning Java" type="rss" htmlUrl="https://www.reddit.com/r/java" xmlUrl="https://www.reddit.com/r/java.rss"/>
             <outline text="Scala" type="rss" htmlUrl="https://www.reddit.com/r/scala" xmlUrl="https://www.reddit.com/r/scala.rss"/>
             <outline text="Kotlin" type="rss" htmlUrl="https://www.reddit.com/r/kotlin" xmlUrl="https://www.reddit.com/r/kotlin.rss"/>
-            <outline text="netbeans" type="rss" htmlUrl="https://www.reddit.com/r/netbeans" xmlUrl="http://reddit.com/r/netbeans.rss"/>
+            <outline text="netbeans" type="rss" htmlUrl="https://www.reddit.com/r/netbeans" xmlUrl="https://reddit.com/r/netbeans.rss"/>
             <outline text="Flutter" type="rss" htmlUrl="https://www.reddit.com/r/Flutter" xmlUrl="https://www.reddit.com/r/Flutter.rss"/>
             <outline text="FlutterDev" type="rss" htmlUrl="https://www.reddit.com/r/FlutterDev" xmlUrl="https://www.reddit.com/r/FlutterDev.rss"/>
         </outline>
@@ -55,7 +55,7 @@
             <outline text="r/Cars - For Car Enthusiasts" type="rss" htmlUrl="https://www.reddit.com/r/cars" xmlUrl="https://www.reddit.com/r/cars.rss"/>
             <outline text="Alfa Romeo" type="rss" htmlUrl="https://www.reddit.com/r/AlfaRomeo" xmlUrl="https://www.reddit.com/r/AlfaRomeo.rss"/>
             <outline text="Italpassion" type="rss" htmlUrl="https://www.italpassion.fr" xmlUrl="https://www.italpassion.fr/feed"/>
-            <outline text="Caradisiac.com : toute l'actu auto en continu" type="rss" htmlUrl="http://www.caradisiac.com" xmlUrl="https://www.caradisiac.com/rss.xml"/>
+            <outline text="Caradisiac.com : toute l'actu auto en continu" type="rss" htmlUrl="https://www.caradisiac.com" xmlUrl="https://www.caradisiac.com/rss.xml"/>
         </outline>
     </body>
 </opml>
