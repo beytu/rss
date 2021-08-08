@@ -7,7 +7,7 @@
     <body>
         <outline text="Dealabs" type="rss" htmlUrl="https://www.dealabs.com" xmlUrl="https://www.dealabs.com/rss"/>
         <outline text="Tech">
-            <outline text="CowcotLand" type="rss" htmlUrl="https://www.cowcotland.com" xmlUrl="http://feeds.feedburner.com/cowcotland"/>
+            <outline text="CowcotLand" type="rss" htmlUrl="https://www.cowcotland.com" xmlUrl="https://feeds.feedburner.com/cowcotland"/>
             <outline text="Réseau JudgeHype" type="rss" htmlUrl="https://www.judgehype.com" xmlUrl="https://www.judgehype.com/nouvelles.xml"/>
             <outline text="Android" type="rss" htmlUrl="https://www.reddit.com/r/Android" xmlUrl="https://www.reddit.com/r/Android.rss"/>
         </outline>
