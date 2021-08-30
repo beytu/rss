@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>RSS Feeds</title>
+        <dateModified>jeu. août 5 11:28:52 2021</dateModified>
+    </head>
+    <body>
+        <outline text="Dealabs" type="rss" htmlUrl="https://www.dealabs.com" xmlUrl="https://www.dealabs.com/rss"/>
+        <outline text="Tech">
+            <outline text="CowcotLand" type="rss" htmlUrl="https://www.cowcotland.com" xmlUrl="https://feeds.feedburner.com/cowcotland"/>
+        </outline>
+        <outline text="News">
+            <outline text="FR">
+                <outline text="News">
+                    <outline text="Local">
+                        <outline text="France 3 Auvergne-Rhône-Alpes - Isère" type="rss" htmlUrl="https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere" xmlUrl="https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/rss"/>
+                        <outline text="Grenoble | Edition Grenoble / Vercors | Le Dauphiné Libéré" type="rss" htmlUrl="https://www.ledauphine.com/edition-grenoble-vercors/grenoble" xmlUrl="https://www.ledauphine.com/edition-grenoble-vercors/grenoble/rss"/>
+                    </outline>
+                    <outline text="Ouest-France - Actualité" type="rss" htmlUrl="https://www.ouest-france.fr" xmlUrl="https://www.ouest-france.fr/rss-en-continu.xml"/>
+                </outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
