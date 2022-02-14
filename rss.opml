@@ -51,7 +51,7 @@
             <outline text="Flutter" type="rss" htmlUrl="https://www.reddit.com/r/Flutter" xmlUrl="https://www.reddit.com/r/Flutter.rss"/>
             <outline text="FlutterDev" type="rss" htmlUrl="https://www.reddit.com/r/FlutterDev" xmlUrl="https://www.reddit.com/r/FlutterDev.rss"/>
             <outline text="Android Dev" type="rss" htmlUrl="https://www.reddit.com/r/androiddev" xmlUrl="https://www.reddit.com/r/androiddev.rss"/>
-            <outline text="Jetbrain> type="rss" htmlUrl="https://blog.jetbrains.com" htmlUrl="https://blog.jetbrains.com/feed/"/>
+            <outline text="Jetbrain"> type="rss" htmlUrl="https://blog.jetbrains.com" htmlUrl="https://blog.jetbrains.com/feed/"/>
         </outline>
         <outline text="Cars">
             <outline text="r/Cars - For Car Enthusiasts" type="rss" htmlUrl="https://www.reddit.com/r/cars" xmlUrl="https://www.reddit.com/r/cars.rss"/>
