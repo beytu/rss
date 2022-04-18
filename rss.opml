@@ -5,6 +5,21 @@
         <dateModified>jeu. août 5 11:28:52 2021</dateModified>
     </head>
     <body>
+        <outline text="Programming">
+            <outline text="programming" type="rss" htmlUrl="https://www.reddit.com/r/programming" xmlUrl="https://www.reddit.com/r/programming.rss"/>
+            <outline text="JVM">
+                <outline text="Java News/Tech/Discussion/etc. No programming help, no learning Java" type="rss" htmlUrl="https://www.reddit.com/r/java" xmlUrl="https://www.reddit.com/r/java.rss"/>
+                <outline text="Scala" type="rss" htmlUrl="https://www.reddit.com/r/scala" xmlUrl="https://www.reddit.com/r/scala.rss"/>
+                <outline text="Kotlin" type="rss" htmlUrl="https://www.reddit.com/r/kotlin" xmlUrl="https://www.reddit.com/r/kotlin.rss"/>
+            </outline>
+            <outline text="Android">
+                <outline text="Flutter" type="rss" htmlUrl="https://www.reddit.com/r/Flutter" xmlUrl="https://www.reddit.com/r/Flutter.rss"/>
+                <outline text="FlutterDev" type="rss" htmlUrl="https://www.reddit.com/r/FlutterDev" xmlUrl="https://www.reddit.com/r/FlutterDev.rss"/>
+                <outline text="Android Dev" type="rss" htmlUrl="https://www.reddit.com/r/androiddev" xmlUrl="https://www.reddit.com/r/androiddev.rss"/>
+            </outline>
+            <outline text="netbeans" type="rss" htmlUrl="https://www.reddit.com/r/netbeans" xmlUrl="https://reddit.com/r/netbeans.rss"/>
+            <outline text="Jetbrain" type="rss" htmlUrl="https://blog.jetbrains.com" xmlUrl="https://blog.jetbrains.com/feed/"/>
+        </outline>
         <outline text="Dealabs" type="rss" htmlUrl="https://www.dealabs.com" xmlUrl="https://www.dealabs.com/rss"/>
         <outline text="Tech">
             <outline text="CowcotLand" type="rss" htmlUrl="https://www.cowcotland.com" xmlUrl="https://feeds.feedburner.com/cowcotland"/>
@@ -41,17 +56,6 @@
                 </outline>
                 <outline text="France" type="rss" htmlUrl="https://www.reddit.com/r/france" xmlUrl="https://www.reddit.com/r/france.rss"/>
             </outline>
-        </outline>
-        <outline text="Programming">
-            <outline text="programming" type="rss" htmlUrl="https://www.reddit.com/r/programming" xmlUrl="https://www.reddit.com/r/programming.rss"/>
-            <outline text="Java News/Tech/Discussion/etc. No programming help, no learning Java" type="rss" htmlUrl="https://www.reddit.com/r/java" xmlUrl="https://www.reddit.com/r/java.rss"/>
-            <outline text="Scala" type="rss" htmlUrl="https://www.reddit.com/r/scala" xmlUrl="https://www.reddit.com/r/scala.rss"/>
-            <outline text="Kotlin" type="rss" htmlUrl="https://www.reddit.com/r/kotlin" xmlUrl="https://www.reddit.com/r/kotlin.rss"/>
-            <outline text="netbeans" type="rss" htmlUrl="https://www.reddit.com/r/netbeans" xmlUrl="https://reddit.com/r/netbeans.rss"/>
-            <outline text="Flutter" type="rss" htmlUrl="https://www.reddit.com/r/Flutter" xmlUrl="https://www.reddit.com/r/Flutter.rss"/>
-            <outline text="FlutterDev" type="rss" htmlUrl="https://www.reddit.com/r/FlutterDev" xmlUrl="https://www.reddit.com/r/FlutterDev.rss"/>
-            <outline text="Android Dev" type="rss" htmlUrl="https://www.reddit.com/r/androiddev" xmlUrl="https://www.reddit.com/r/androiddev.rss"/>
-            <outline text="Jetbrain" type="rss" htmlUrl="https://blog.jetbrains.com" xmlUrl="https://blog.jetbrains.com/feed/"/>
         </outline>
         <outline text="Cars">
             <outline text="r/Cars - For Car Enthusiasts" type="rss" htmlUrl="https://www.reddit.com/r/cars" xmlUrl="https://www.reddit.com/r/cars.rss"/>
