@@ -38,12 +38,6 @@
                     <outline text="Science" type="rss" htmlUrl="https://www.reddit.com/r/science" xmlUrl="https://www.reddit.com/r/science.rss"/>
                     <outline text="/r/space: news, articles, images, videos, and discussion" type="rss" htmlUrl="https://www.reddit.com/r/space" xmlUrl="https://www.reddit.com/r/space.rss"/>
                 </outline>
-                <outline text="News">
-                    <outline text="World News" type="rss" htmlUrl="https://www.reddit.com/r/worldnews" xmlUrl="https://www.reddit.com/r/worldnews.rss"/>
-                </outline>
-                <outline text="Tech">
-                    <outline text="AnandTech" type="rss" htmlUrl="http://www.anandtech.com" xmlUrl="https://www.anandtech.com/rss/"/>
-                </outline>
             </outline>
             <outline text="FR">
                 <outline text="News">
