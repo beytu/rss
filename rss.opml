@@ -17,7 +17,6 @@
                 <outline text="FlutterDev" type="rss" htmlUrl="https://www.reddit.com/r/FlutterDev" xmlUrl="https://www.reddit.com/r/FlutterDev.rss"/>
                 <outline text="Android Dev" type="rss" htmlUrl="https://www.reddit.com/r/androiddev" xmlUrl="https://www.reddit.com/r/androiddev.rss"/>
             </outline>
-            <outline text="netbeans" type="rss" htmlUrl="https://www.reddit.com/r/netbeans" xmlUrl="https://reddit.com/r/netbeans.rss"/>
             <outline text="Jetbrain" type="rss" htmlUrl="https://blog.jetbrains.com" xmlUrl="https://blog.jetbrains.com/feed/"/>
         </outline>
         <outline text="Dealabs" type="rss" htmlUrl="https://www.dealabs.com" xmlUrl="https://www.dealabs.com/rss"/>
@@ -27,6 +26,15 @@
             <outline text="Android" type="rss" htmlUrl="https://www.reddit.com/r/Android" xmlUrl="https://www.reddit.com/r/Android.rss"/>
         </outline>
         <outline text="News">
+            <outline text="News">
+                <outline text="Local">
+                    <outline text="France 3 Auvergne-Rhône-Alpes - Isère" type="rss" htmlUrl="https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere" xmlUrl="https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/rss"/>
+                    <outline text="Grenoble | Edition Grenoble / Vercors | Le Dauphiné Libéré" type="rss" htmlUrl="https://www.ledauphine.com/edition-grenoble-vercors/grenoble" xmlUrl="https://www.ledauphine.com/edition-grenoble-vercors/grenoble/rss"/>
+                </outline>
+                <outline text="Ouest-France - Actualité" type="rss" htmlUrl="https://www.ouest-france.fr" xmlUrl="https://www.ouest-france.fr/rss-en-continu.xml"/>
+            </outline>
+        </outline>
+        <outline text="Reddit">
             <outline text="Tech">
                 <outline text="Small Form Factor PC" type="rss" htmlUrl="https://www.reddit.com/r/sffpc" xmlUrl="https://www.reddit.com/r/sffpc.rss"/>
                 <outline text="A place for AMD users, fans, and enthusiasts to discuss past, current, and future AMD products" type="rss" htmlUrl="https://www.reddit.com/r/amd" xmlUrl="https://www.reddit.com/r/amd.rss"/>
@@ -42,13 +50,18 @@
             <outline text="FR">
                 <outline text="News">
                     <outline text="Local">
-                        <outline text="France 3 Auvergne-Rhône-Alpes - Isère" type="rss" htmlUrl="https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere" xmlUrl="https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/rss"/>
+                        <outline text="Lyon" type="rss" htmlUrl="https://www.reddit.com/r/Lyon" xmlUrl="https://www.reddit.com/r/Lyon.rss"/>
                         <outline text="Grenoble" type="rss" htmlUrl="https://www.reddit.com/r/Grenoble" xmlUrl="https://www.reddit.com/r/Grenoble.rss"/>
-                        <outline text="Grenoble | Edition Grenoble / Vercors | Le Dauphiné Libéré" type="rss" htmlUrl="https://www.ledauphine.com/edition-grenoble-vercors/grenoble" xmlUrl="https://www.ledauphine.com/edition-grenoble-vercors/grenoble/rss"/>
                     </outline>
-                    <outline text="Ouest-France - Actualité" type="rss" htmlUrl="https://www.ouest-france.fr" xmlUrl="https://www.ouest-france.fr/rss-en-continu.xml"/>
                 </outline>
                 <outline text="France" type="rss" htmlUrl="https://www.reddit.com/r/france" xmlUrl="https://www.reddit.com/r/france.rss"/>
+                <outline text="Voiture" type="rss" htmlUrl="https://www.reddit.com/r/voiture" xmlUrl="https://www.reddit.com/r/voiture.rss"/>
+                <outline text="Immobilier" type="rss" htmlUrl="https://www.reddit.com/r/immobilier" xmlUrl="https://www.reddit.com/r/immobilier.rss"/>
+                <outline text="VosFinances" type="rss" htmlUrl="https://www.reddit.com/r/VosFinances" xmlUrl="https://www.reddit.com/r/VosFinances.rss"/>
+                <outline text="AskFrance" type="rss" htmlUrl="https://www.reddit.com/r/AskFrance" xmlUrl="https://www.reddit.com/r/AskFrance.rss"/>
+                <outline text="besoindeparler" type="rss" htmlUrl="https://www.reddit.com/r/AskFrance" xmlUrl="https://www.reddit.com/r/besoindeparler.rss"/>
+                <outline text="conseiljuridique" type="rss" htmlUrl="https://www.reddit.com/r/AskFrance" xmlUrl="https://www.reddit.com/r/conseiljuridique.rss"/>
+
             </outline>
         </outline>
         <outline text="Cars">
